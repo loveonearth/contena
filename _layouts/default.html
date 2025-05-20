@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <meta charset="UTF-8" />
+    <title>{{ page.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+    <!-- Pretendard from JSDelivr CDN -->
+<link href="https://cdn.jsdelivr.net/npm/pretendard@latest/dist/web/variable/pretendardvariable-dynamic-subset.css" rel="stylesheet">
+  </head>
+
+  <body>
+    <header style="text-align: center; padding-top: 2rem;">
+      <a href="/"><img src="{{ "/images/logo.png" | relative_url }}" alt="콘테나 로고" style="height: 300px;" /></a>
+    </header>
+
+    <main style="max-width: 720px; margin: 0 auto; padding: 2rem 2rem;">
+      {{ content }}
+    </main>
+
+    <footer style="position: fixed; bottom: 0; width: 100%; text-align: center; font-size: 0.8rem; color: #777; background-color: #fefefe; border-top: 1px solid #e7c496; padding: 0.5rem;">
+      No Container,  Yes CONTENA. It's a box half full of some art things.
+    </footer>
+  </body>
+</html>
