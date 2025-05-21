@@ -5,7 +5,7 @@
     <title>{{ page.title }}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link href="https://cdn.jsdelivr.net/npm/pretendard@latest/dist/web/variable/pretendardvariable-dynamic-subset.css" rel="stylesheet">
-<link rel="stylesheet" href="{{ '/style.css' | relative_url }}">
+    <link rel="stylesheet" href="{{ '/style.css' | relative_url }}">
   <style>
 img {
   max-width: 100%;
@@ -15,9 +15,11 @@ img {
   </head>
 
   <body>
-    <header style="text-align: center; padding-top: 2rem;">
-      <img src="./images/logo.png" class="logo">
-    </header>
+  <header style="text-align: center; margin: 2rem 0;">
+    <a href="{{ '/' | relative_url }}">
+    <img src="{{ '/images/logo.png' | relative_url }}" alt="콘테나 로고" style="max-width: 200px; height: auto;">
+    </a>
+  </header>
 
     <main style="max-width: 720px; margin: 0 auto; padding: 2rem 2rem;">
       {{ content }}
