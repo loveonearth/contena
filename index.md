@@ -1,6 +1,7 @@
 ---
 layout: default
 title: 콘테나
+permalink: /
 ---
 
 image<br>
