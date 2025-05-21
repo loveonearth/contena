@@ -9,12 +9,12 @@ permalink: /scrapbook
 > this is a book.<br>
 > look thru image and video.  
 
-![스크랩 이미지1]({{ '/images/scrapbook1.jpeg' | relative_url }})<br>
-![스크랩 이미지2]({{ '/images/scrapbook2.jpeg' | relative_url }})<br>
-![스크랩 이미지3]({{ '/images/scrapbook3.jpeg' | relative_url }})<br>
-![스크랩 이미지4]({{ '/images/scrapbook4.jpeg' | relative_url }})<br>
-![스크랩 이미지5]({{ '/images/scrapbook5.jpeg' | relative_url }})<br>
-![스크랩 이미지6]({{ '/images/scrapbook6.jpeg' | relative_url }})<br>
+![스크랩 이미지1]('/images/scrapbook1.jpeg')<br>
+![스크랩 이미지2]('/images/scrapbook2.jpeg')<br>
+![스크랩 이미지3]('/images/scrapbook3.jpeg')<br>
+![스크랩 이미지4]('/images/scrapbook4.jpeg')<br>
+![스크랩 이미지5]('/images/scrapbook5.jpeg')<br>
+![스크랩 이미지6]('/images/scrapbook6.jpeg')<br>
 <br>
 <iframe width="315" height="560" src="https://www.youtube.com/embed/Y21dHqGbULY" frameborder="0" allowfullscreen></iframe><br>
 <br>
