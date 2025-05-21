@@ -23,12 +23,12 @@ blockquote > :last-child {
 }
 
 a {
-  color: black !important;
+  color: #e1b765 !important;
   font-weight: 700 !important;
   text-decoration: none !important;
 }
 a:hover {
-  color: #e1b765 !important;
+  color: #000 !important;
   font-weight: 900 !important;
   text-decoration: none !important;
 }

@@ -21,8 +21,6 @@
 title: 콘테나
 description: 창작품이 차곡차곡 담깁니다.
 permalink: /:title/
-baseurl: "/contena"
-url: "https://loveonearth.github.io"
 markdown: kramdown
 theme: minima
 plugins:
