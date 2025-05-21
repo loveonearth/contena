@@ -2,7 +2,7 @@
 layout: default
 title: contena vol.0
 date: 2025-05-21
-permalink: /01
+permalink: /00/
 ---
 
 ## <b>CONTENA 0521</b>. 
@@ -35,7 +35,7 @@ permalink: /01
 > 그건 굴욕이 아니다.  
 > 그건 선이다.  
   
-[전문 읽기](/essay/winlose)  
+[전문 읽기](/vol00/winlose)  
   
 ---
   
@@ -48,7 +48,7 @@ permalink: /01
 > 아리스토텔레스 선생님은,  
 > 철학자라면서요?  
   
-[전문 읽기](/review/poetics)  
+[전문 읽기](/vol00/poetics)  
   
 ---  
   
@@ -57,7 +57,7 @@ permalink: /01
 > this is a book.  
 > look thru images and video.  
   
-[이미지와 영상 보기](/scrapbook)  
+[이미지와 영상 보기](/vol00/scrapbook)  
   
 ---  
   

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: 스크랩북
-permalink: /scrapbook
+permalink: /vol00/scrapbook
 ---
 
 ## 스크랩북<br>
