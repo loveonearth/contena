@@ -21,6 +21,7 @@
 title: 콘테나
 description: 감귤색 상자, 창작품이 차곡차곡 담깁니다.
 permalink: /:title/
+baseurl: "/contena"
 markdown: kramdown
 theme: minima
 plugins:
