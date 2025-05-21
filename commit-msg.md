@@ -4,7 +4,7 @@ title: 콘테나 제작일지
 permalink: /commit-msg
 ---
 
-## 커밋 메시지  
+### 커밋 메시지  
 **2025년 5월 20-21일, 콘테나 제작일지 커밋**  
   
 콘테나 0호를 터미널에서 지킬, 깃 명령어로 엮으면서 겪었던 커밋 메시지들을 묶었다.  
@@ -16,56 +16,56 @@ permalink: /commit-msg
   
 ---  
   
-### 몇번째 시도인지 모르겠지만 마지막 감귤이길  
+<b>몇번째 시도인지 모르겠지만 마지막 감귤이길</b>  
 첫 메시지부터 마지막을 말하다니  
   
-### Update _config.yml  
-### force github pages to include assets  
-### 망할놈의 css  
+<b>Update _config.yml</b>  
+<b>force github pages to include assets</b>  
+<b>망할놈의 css</b>  
   
-### fix: convert index.markdown to index.md  
-### Update 404.html  
+<b>fix: convert index.markdown to index.md</b>  
+<b>Update 404.html</b>  
   
-### 미친놈들아 정신 차려  
-### 열려라 씨발참깨  
-### css랑 하이퍼링크가 말을 안 들어  
+<b>미친놈들아 정신 차려</b>  
+<b>열려라 씨발참깨</b>  
+<b>css랑 하이퍼링크가 말을 안 들어</b>  
 가장 살아있다  
 
-### final-final-진짜마지막-이게안되면-포기  
+<b>final-final-진짜마지막-이게안되면-포기</b>  
 파일 작업자들이라면 누구나 써 보는 메시지겠지?  
   
-### index 복원  
+<b>index 복원  
 
-### index.md에 퍼머링크 추가하고 노지킬 추가함  
-### 루트에 index.html, _site 생성  
-### 노지킬 꺼져  
-### 되든 말든 아이스크림 먹으러 나간다  
-### 지랄맞은 깃... 방정맞은 깃... 모르겠고 네 잘못이야  
+<b>index.md에 퍼머링크 추가하고 노지킬 추가함</b>  
+<b>루트에 index.html, _site 생성</b>  
+<b>노지킬 꺼져</b>  
+<b>되든 말든 아이스크림 먹으러 나간다</b>  
+<b>지랄맞은 깃... 방정맞은 깃... 모르겠고 네 잘못이야</b>  
 '노지킬'을 만들었다가 지웠다가 '깃'을 욕했다가  
 
-### Create CNAME  
+<b>Create CNAME</b>  
 
-### 노지킬  
-### 리베이스 전에 임시 저장  
+<b>노지킬</b>  
+<b>리베이스 전에 임시 저장</b>  
 다시 '노지킬'을 불러오고  
 
-### 바보같이 마크다운 문법을 html에 넣어버렸다  
+<b>바보같이 마크다운 문법을 html에 넣어버렸다</b>  
 미국 사람이 한국 와서 러시아어로 소통하려는 상황  
 
-### final of final of fiiiiiinaaaaaaaaal  
-### 제발 열려라 열려라 열려라 01  
-### 이번엔 잘 좀 해보자 내가 너 믿어볼게  
+<b>final of final of fiiiiiinaaaaaaaaal</b>  
+<b>제발 열려라 열려라 열려라 01</b>  
+<b>이번엔 잘 좀 해보자 내가 너 믿어볼게</b>  
 의외로 정말 쓸데없는 믿음 중 하나가, 기계 지능을 맹신하는 것이 아닐까  
   
-### 노지킬 빠이  
+<b>노지킬 빠이</b>  
 
-### css 또 말썽  
-### 사이즈 조절  
-### css 수정 어게인  
-### 이미지까지 난리야...  
+<b>css 또 말썽</b>  
+<b>사이즈 조절</b>  
+<b>css 수정 어게인</b>  
+<b>이미지까지 난리야...</b>  
 슬슬 지쳐가는 게 보여  
 
-### 포장 없는 푸터  
+<b>포장 없는 푸터</b>  
 여기서 성공했다.  
 footer에 포장 없이 담습니다 라는 말이 요술코드처럼 작동했는지 어쨌는지  
 고마워, 푸터...  
