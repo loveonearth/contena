@@ -13,7 +13,7 @@ sound<br>
 ---
 <br>
 ## 발행<br>
-2025년 5월 21일, 0호 [파일럿 봄호](/01)<br>
+2025년 5월 21일, 0호 [파일럿 봄호]({{ '/01' | relative_url }})<br>
 <br>
 ### 수록 내용<br>
 시: 행복한 결정<br>
@@ -27,5 +27,5 @@ sound<br>
 <font color="#8e8e8e">무슨 말이냐면요,<br>
 코딩과 싸웠다는 뜻이에요.</font>
 <br>
-<img src="/images/may21-hera.png" alt="may 21, hera" style="height: 100px; display: block; margin: 2rem auto 0;">
+<img src="{{/images/may21-hera.png" | relative_url }} alt="may 21, hera" style="height: 100px; display: block; margin: 2rem auto 0;">
 <br>
