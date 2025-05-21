@@ -11,6 +11,13 @@ body {
   flex-direction: column;
 }
 
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}s
+
 blockquote {
   color: #828282; 
   border-left: 3px solid #e1b765 !important;
