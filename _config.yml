@@ -21,8 +21,8 @@
 title: 콘테나
 description: 창작품이 차곡차곡 담깁니다.
 permalink: /:title/
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/contena"
+url: "https://loveonearth.github.io"
 markdown: kramdown
 theme: minima
 plugins:
