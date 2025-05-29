@@ -18,7 +18,7 @@ permalink: /00/index.html
 #### 시  
 <div style="display: flex;">  
   <img 
-  src="/images/happychoice.png" 
+  src="/0/images/happychoice.png" 
   alt="시와 이미지" 
   style="max-width: 100%; height: auto; display: block; margin: 2rem auto;" />
 </div>  
