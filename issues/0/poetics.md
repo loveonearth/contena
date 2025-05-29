@@ -55,7 +55,7 @@ permalink: /poetics/index.html
 모든 서사와 플롯(서사와 플롯의 차이까지는 설명할 필요 없겠지?), 인물은 하나의 일관된 모습으로, 받아들여질 만하게, 이해할 만하게 나타나야 하며, 필연적인 관계 속에서 이루어져야 한다.  
 예를 들어, 현실성 없는 사건이지만 일어날 법한 것과 현실성 있는 사건이지만 일어날 법하지 않은 것이 있다면 작가는 전자를 선택해야 한다.  
   
-<img src="../images/contena_.png" alt="귤" width="40" />  
+<img src="/images/contena_.png" alt="귤" width="40" />  
   
 저자가 희극과 비극에 대해 설명한 내용이 이렇다.  
 희극은 사람들을 보통보다 못나게, 비극은 더 잘나게 나타낸다.  
@@ -82,7 +82,7 @@ permalink: /poetics/index.html
 사회적 강자와 약자가 있을 뿐이다.  
 이것으로 사람을 급나누기하고 희극이니 비극이니 나눈다는 건, 아까도 언급한 존엄성에 대한 문제가 야기되는 거다.  
   
-<img src="../images/contena_.png" alt="귤" width="40" />  
+<img src="/images/contena_.png" alt="귤" width="40" />  
   
 희극과 관련하여, 저자의 문장 중에 이런 것이 있다.  
 희극에서는 내용상 (…생략…) 철천지원수 사이일지라도 종말에 가서는 서로 친구가 되어 퇴장하고 아무도 죽지 않는다.  
@@ -94,7 +94,7 @@ permalink: /poetics/index.html
   
 비극을 사랑하는 이유도, 희극이 사랑스러운 이유도 이것이다.  
   
-<img src="../images/contena_.png" alt="귤" width="40" />  
+<img src="/images/contena_.png" alt="귤" width="40" />  
   
 내 제목으로 돌아가본다.  
 철학자라면서요?  

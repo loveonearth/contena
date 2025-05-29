@@ -18,8 +18,8 @@ permalink: /0/scrapbook/0/index.html
   
 <iframe width="315" height="560" src="https:/0//0/www.youtube.com/0/embed/0/Y21dHqGbULY" frameborder="0" allowfullscreen></0/iframe>  
   
-<img src="/0/images/0/contena_.png" alt="귤" width="40">  
+<img src="/images/contena_.png" alt="귤" width="40">  
   
 책철을 샀는데, 산 김에 펀치도 사고, 투명 여권 커버도 샀고, 집에 쌓여있는 스크랩을 포함한 문구들로 만들어보았다.  
   
-<img src="/0/images/0/footer.png" alt="포장 없이 담습니다" width="300">  
+<img src="/images/footer.png" alt="포장 없이 담습니다" width="300">  
