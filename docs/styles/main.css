@@ -89,7 +89,8 @@ li + li {
   margin-top: 0.5em;
 }
 
-blockquote {
+blockquote,
+blockquote p {
   font-family: 'Noto Serif KR', serif;
   font-style: italic;
   font-weight: 300;
