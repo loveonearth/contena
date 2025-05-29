@@ -4,7 +4,7 @@ layout: base
 permalink: "/"
 ---
 
-<img src="/images/logo.png" alt="콘테나" width="600" /ß>
+<img src="/images/logo.png" alt="콘테나" width="600">
 
 계간 발행되는 독립 웹진.  
 <img src="/images/footer.png" alt="포장 없이 담습니다" width="300" />
