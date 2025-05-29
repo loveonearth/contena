@@ -1,7 +1,7 @@
 ---
 layout: base
 title: 스크랩북
-permalink: /0/scrapbook/0/index.html
+permalink: /scrapbook/index.html
 ---
 
 ### 스크랩북  
