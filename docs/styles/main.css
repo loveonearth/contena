@@ -1,0 +1,91 @@
+html {
+  box-sizing: border-box;
+}
+
+*, *::before, *::after {
+  box-sizing: inherit;
+}
+
+body {
+  color: #000;
+  font-size: 1.05rem;
+  background: #fff;
+  margin: 0;
+  padding: 2rem;
+  line-height: 1.8;
+}
+
+body, p, ul, li {
+  font-family: 'Noto Sans KR', sans-serif;
+  font-weight: 300;
+}
+
+h1, h2, h3, h4, h5 {
+  font-family: 'Noto Serif KR', serif;
+  font-weight: 400;
+}
+
+h3, h4, h5 {
+  font-weight: 600;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 1.5em auto;
+}
+
+body {
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 2rem 1rem;
+}
+
+a {
+  font-weight: 700;
+  text-decoration: none;
+  color: inherit;
+  transition: all 0.2s ease;
+}
+
+a:hover {
+  font-weight: 900;
+  text-decoration: underline;
+  color: #c86c2c;
+}
+
+h3, h4, h5 {
+  font-family: 'Noto Serif KR', serif;
+  font-weight: 600;
+  margin-top: 2.5rem;
+  margin-bottom: 1rem;
+}
+
+body, p, ul, li {
+  font-family: 'Noto Sans KR', sans-serif;
+  font-weight: 400;
+}
+
+p {
+  margin-bottom: 1.2em;
+}
+
+ul, ol {
+  padding-left: 1.5em;
+  margin-bottom: 1.5em;
+}
+
+li + li {
+  margin-top: 0.5em;
+}
+
+blockquote {
+  blockquote {
+  font-family: 'Noto Serif KR', serif;
+  font-weight: 300;
+  border-left: 4px solid #f2c3a0;
+  padding-left: 1em;
+  margin: 1.5em 0;
+  color: #666;
+}
