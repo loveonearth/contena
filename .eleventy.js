@@ -4,7 +4,7 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("0/images");
 
   return {
-    pathPrefix: "/contena/",
+    pathPrefix: "/",
     dir: {
       input: "issues",
       output: "docs",

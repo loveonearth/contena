@@ -11,19 +11,19 @@ permalink: /00/index.html
 1호가 아니라 0호가 되겠네요.  
 잘 부탁드립니다.  
   
-<img src="../images/contena_.png" alt="귤" width="40" />  
+<img src="/images/contena_.png" alt="귤" width="40" />  
   
 ### Vol. 0  
   
 #### 시  
 <div style="display: flex;">  
   <img 
-  src="/0../images/happychoice.png" 
+  src="/images/happychoice.png" 
   alt="시와 이미지" 
   style="max-width: 100%; height: auto; display: block; margin: 2rem auto;" />
 </div>  
   
-<img src="../images/contena_.png" alt="귤" width="40" />  
+<img src="/images/contena_.png" alt="귤" width="40" />  
   
 ### 에세이  
   
@@ -36,7 +36,7 @@ permalink: /00/index.html
   
 [전문 읽기](/winlose)  
   
-<img src="../images/contena_.png" alt="귤" width="40" />  
+<img src="/images/contena_.png" alt="귤" width="40" />  
   
 ### 서평  
 
@@ -49,7 +49,7 @@ permalink: /00/index.html
   
 [전문 읽기](/poetics)  
   
-<img src="../images/contena_.png" alt="귤" width="40" />  
+<img src="/images/contena_.png" alt="귤" width="40" />  
   
 ### handmade by may 21  
   
@@ -58,10 +58,11 @@ permalink: /00/index.html
   
 [이미지와 영상 보기](/scrapbook)  
   
-<img src="../images/contena_.png" alt="귤" width="40" />  
+<img src="/images/contena_.png" alt="귤" width="40" />  
   
 <b>Editor</b>  
   
 글.사진.그림.영상,  may 21  
 감사합니다.  
   
+<img src="/images/footer.png" alt="포장 없이 담습니다" width="300" />  

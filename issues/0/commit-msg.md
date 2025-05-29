@@ -14,7 +14,7 @@ permalink: /commit-msg/index.html
 커밋 메시지들은 감정도 생각도 작업내용도 선명하다.  
 왜 깃으로 작업하는지 알 것 같고 그렇네.  
   
-<img src="../images/contena_.png" alt="귤" width="40" />  
+<img src="/images/contena_.png" alt="귤" width="40" />  
   
 <b>몇번째 시도인지 모르겠지만 마지막 감귤이길</b>  
 첫 메시지부터 마지막을 말하다니  
@@ -71,4 +71,4 @@ footer에 포장 없이 담습니다 라는 말이 요술코드처럼 작동했�
 고마워, 푸터...  
 푸터가 잘한 건 아무것도 없긴 하지만...  
   
-<img src="../images/footer.png" alt="포장 없이 담습니다" width="300" />  
+<img src="/images/footer.png" alt="포장 없이 담습니다" width="300" />  
