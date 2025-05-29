@@ -1,8 +1,7 @@
 ---
 layout: base
 title: 시학 읽기
-date: 2025-05-09
-permalink: /poetics
+permalink: /poetics/index.html
 ---
 
 ### 시학 읽기: 아리스토텔레스, 철학자라면서요?  
@@ -18,7 +17,7 @@ permalink: /poetics
 나는 자타공인 알아주는 비극 덕후다.  
 아리스토텔레스, 그리고 그리스 고전의 글쓰기에 대한 책이라니, 아무래도 제법 기대를 했던 모양이다.  
   
-<img src="/images/poetics.jpeg" alt="시학 책 표지" style="max-width: 100%; margin: 2em 0;" />  
+<img src="/0/images/poetics.jpeg" alt="시학 책 표지" style="max-width: 100%; margin: 2em 0;" />  
   
 실망이 컸다.  
   

@@ -1,8 +1,7 @@
 ---
 layout: base
 title: 이길래, 질래?
-date: 2025-05-17
-permalink: /winlose
+permalink: /winlose/index.html
 ---
 
 ### 이길래, 질래?  

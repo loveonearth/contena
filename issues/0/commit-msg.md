@@ -1,7 +1,7 @@
 ---
 layout: base
 title: 콘테나 제작일지
-permalink: /commit-msg
+permalink: /commit-msg/index.html
 ---
 
 ### 커밋 메시지  

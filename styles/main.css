@@ -17,10 +17,10 @@ body {
 
 body, p, ul, li {
   font-family: 'Noto Sans KR', sans-serif;
-  font-weight: 400;
+  font-weight: 300;
 }
 
-h1, h2, h3, h4, h5, blockquote {
+h1, h2, h3, h4, h5 {
   font-family: 'Noto Serif KR', serif;
   font-weight: 400;
 }
@@ -81,7 +81,9 @@ li + li {
 }
 
 blockquote {
-  font-weight: 400;
+  blockquote {
+  font-family: 'Noto Serif KR', serif;
+  font-weight: 300;
   border-left: 4px solid #f2c3a0;
   padding-left: 1em;
   margin: 1.5em 0;

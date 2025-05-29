@@ -1,7 +1,7 @@
 ---
 layout: base
 title: contena vol.0
-permalink: /00/
+permalink: /00/index.html
 ---
 
 ### 콘테나. 
@@ -18,7 +18,7 @@ permalink: /00/
 #### 시  
 <div style="display: flex;">  
   <img 
-  src="/images/happychoice.png" 
+  src="/0/images/happychoice.png" 
   alt="시와 이미지" 
   style="max-width: 100%; height: auto; display: block; margin: 2rem auto;" />
 </div>  
