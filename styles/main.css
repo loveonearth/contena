@@ -7,26 +7,24 @@ html {
 }
 
 body {
-  color: #000;
+  font-color: #000;
   font-size: 1.05rem;
   background: #fff;
-  margin: 0;
-  padding: 2rem;
-  line-height: 1.8;
+  font-size: 1.05rem;
+  line-height: 1.75;
+  margin: 0 auto;
+  padding: 1.25rem;
+  box-sizing: border-box;
 }
 
 body, p, ul, li {
-  font-family: 'Noto Sans KR', sans-serif;
+  font-family: 'Noto Serif KR', serif;
   font-weight: 300;
 }
 
 h1, h2, h3, h4, h5 {
-  font-family: 'Noto Serif KR', serif;
+  font-family: 'Noto sans KR', sans-serif;
   font-weight: 400;
-}
-
-h3, h4, h5 {
-  font-weight: 600;
 }
 
 img {
@@ -36,20 +34,12 @@ img {
   margin: 1.5em auto;
 }
 
-body {
-  width: 90vw;
-  margin: 0 auto;
-  padding: 1.25rem;
-  box-sizing: border-box;
-}
-
 @media (min-width: 768px) {
   body {
     max-width: 700px;
     width: 100%;
+    font-size: 1.1rem;
     padding: 2rem 1.5rem;
-  }
-}
 
 a {
   font-weight: 700;
@@ -65,15 +55,15 @@ a:hover {
 }
 
 h3, h4, h5 {
-  font-family: 'Noto Serif KR', serif;
+  font-family: 'Noto Sans KR', sans-serif;
   font-weight: 600;
   margin-top: 2.5rem;
   margin-bottom: 1rem;
 }
 
 body, p, ul, li {
-  font-family: 'Noto Sans KR', sans-serif;
-  font-weight: 400;
+  font-family: 'Noto Serif KR', serif;
+  font-weight: 300;
 }
 
 p {
