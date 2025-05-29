@@ -15,7 +15,7 @@ permalink: /winlose/index.html
 패배가 틀렸나?  
 이겨서 좋을 건 뭘까?  
   
-<img src="/images/contena_.png" alt="귤" width="40" />  
+<img src="../images/contena_.png" alt="귤" width="40" />  
   
 왜 남 위에 올라서고 싶어하는지 모르겠다.  
 서열짓는 것만큼 인간같지 않은 것도 없다.  
@@ -34,7 +34,7 @@ permalink: /winlose/index.html
 왜 그럴까?  
 왜 승리는 자랑스럽고, 패배는 굴욕적이라고 인식될까?  
   
-<img src="/images/contena_.png" alt="귤" width="40" />  
+<img src="../images/contena_.png" alt="귤" width="40" />  
   
 종교나 철학에서 말하는 선은 보편적인 승리로 표현되지 않는다.  
 선의 승리는 언제나 패배에 가깝게 보인다.  
@@ -55,11 +55,11 @@ permalink: /winlose/index.html
 그건 굴욕이 아니다.  
 그건 선이다.  
   
-<img src="/images/contena_.png" alt="귤" width="40" />  
+<img src="../images/contena_.png" alt="귤" width="40" />  
   
 나는 지고 살련다.  
 지고도 잘 살고 있다.  
   
 *essay, may 21*  
   
-<img src="/images/footer.png" alt="포장 없이 담습니다" width="300" />  
+<img src="../images/footer.png" alt="포장 없이 담습니다" width="300" />  
