@@ -30,5 +30,4 @@ Update 404.html
 css랑 하이퍼링크가 말을 안 들어  
   
 [morecommit-m.log](/commit-msg)  
-
-<img src="/images/contena_.png" alt="귤" width="40" />  
+  
