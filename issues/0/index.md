@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base
 title: 콘테나
 permalink: /0
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base
 title: 콘테나 제작일지
 permalink: /commit-msg
 ---

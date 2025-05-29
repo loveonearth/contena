@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base
 title: 시학 읽기
 date: 2025-05-09
 permalink: /poetics

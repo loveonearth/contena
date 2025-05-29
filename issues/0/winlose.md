@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base
 title: 이길래, 질래?
 date: 2025-05-17
 permalink: /winlose

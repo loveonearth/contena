@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: base
 title: 스크랩북
 permalink: /scrapbook
 ---
