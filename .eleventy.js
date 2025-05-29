@@ -6,3 +6,14 @@ module.exports = function(eleventyConfig) {
     }
   };
 };
+
+module.exports = function(eleventyConfig) {
+  eleventyConfig.addPassthroughCopy("styles");
+
+  return {
+    dir: {
+      input: "issues",
+      output: "_site"
+    }
+  };
+};
