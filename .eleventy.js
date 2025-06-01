@@ -3,7 +3,6 @@ module.exports = function(eleventyConfig) {
   eleventyConfig.addPassthroughCopy("images");
   eleventyConfig.addPassthroughCopy("issues/0/images");
   eleventyConfig.addPassthroughCopy("public/CNAME");
-};
 
   return {
     pathPrefix: "/",
@@ -12,4 +11,4 @@ module.exports = function(eleventyConfig) {
       output: "docs",
     }
   };
-}
+};
