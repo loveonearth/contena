@@ -4,7 +4,7 @@ layout: base
 permalink: "/"
 ---
 
-<img src="/1/images/missing_color.png" alt="실종신고" width="400">
+<img src="1/images/missing_color.png" alt="실종신고" width="400">
 
 계간 발행되는 독립 웹진.  
   
