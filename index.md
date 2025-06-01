@@ -1,7 +1,7 @@
 ---
 title: 콘테나
 layout: base
-permalink: "/index.html"
+permalink: "/"
 ---
 
 <img src="/issues/1/images/missing_color.png" alt="실종신고" width="400">
