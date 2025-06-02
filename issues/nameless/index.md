@@ -7,7 +7,7 @@ permalink: "/nameless/index.html"
 ## 연재 에세이  
 **Nameless**  
   
-<img src="/images/banner.jpg" alt="배너" width="40" />  
+<img src="/images/banner.jpg" alt="배너" width="90%" />  
 
 <img src="/images/contena_.png" alt="귤" width="40" />  
   
