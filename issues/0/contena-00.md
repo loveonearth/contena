@@ -4,7 +4,7 @@ title: contena vol.0
 permalink: /00/index.html
 ---
 
-### 콘테나. 
+## 콘테나. 
   
 정식 발행이라고 하기엔 허전한데,  
 마음으로 약속한 날은 벌써 되어서 조금 성급히 파일럿 호를 냅니다.  
@@ -13,9 +13,9 @@ permalink: /00/index.html
   
 <img src="/images/contena_.png" alt="귤" width="40" />  
   
-### Vol. 0  
+## Vol. 0  
   
-#### 시  
+### 시  
 <div style="display: flex;">  
   <img 
   src="/0/images/happychoice.png" 
@@ -25,9 +25,9 @@ permalink: /00/index.html
   
 <img src="/images/contena_.png" alt="귤" width="40" />  
   
-### 에세이  
+## 에세이  
   
-#### 이길래, 질래?  
+### 이길래, 질래?  
 
 > 그래도 나는 선택을 할 수 있다.  
 > 자랑스러운 승리보다, 굴욕적으로 보이는 패배를.  
@@ -38,7 +38,7 @@ permalink: /00/index.html
   
 <img src="/images/contena_.png" alt="귤" width="40" />  
   
-### 서평  
+## 서평  
 
 <시학 읽기: 아리스토텔레스, 철학자라면서요?>  
   
@@ -51,7 +51,7 @@ permalink: /00/index.html
   
 <img src="/images/contena_.png" alt="귤" width="40" />  
   
-### handmade by may 21  
+## handmade by may 21  
   
 > this is a book.  
 > look thru images and video.  
